@@ -30,8 +30,8 @@ namespace StudentDailyReport
 
             //Question to verify if student needs help, then student keys in "True" or "False"
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false.\"");  //prints to console
-            bool needHelp = true;  //student data entry
-            string helpStatus = Convert.ToString(needHelp);  //casting, boolean to string
+            string needHelp = Console.ReadLine();  //student data entry
+            bool helpStatus = Convert.ToBoolean(needHelp);  //casting, boolean to string
             Console.ReadLine();  //pauses and waits for an input
 
             Console.WriteLine(" ");
