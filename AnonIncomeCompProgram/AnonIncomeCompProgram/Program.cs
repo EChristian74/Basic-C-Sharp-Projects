@@ -43,21 +43,21 @@ namespace AnonIncomeCompProgram
             int hours2 = Convert.ToInt16(hoursPer2);  //casting string to int
             Console.ReadLine();  //pauses and holds program open to run next section of program
 
-            //Annual salary of Person 1
+            //Annual salary of Person 1 based on 52 weeks per year
             Console.WriteLine("Annual salary of Person 1:");  //prints to console
-            int product1 = (int)Convert.ToInt16(hourlyRate1) * (int)Convert.ToInt16(hoursPer1);  //calculates annual salary
+            int product1 = (int)Convert.ToInt16(hourlyRate1) * (int)Convert.ToInt16(hoursPer1) * (int)Convert.ToInt16(52);  //calculates annual salary
             Console.WriteLine(product1);  //prints to console
             Console.ReadLine();  //pauses and holds program open for next section of program
 
-            //Annual salary of Person 2
+            //Annual salary of Person 2 based on 52 weeks per year
             Console.WriteLine("Annual salary of Person 2:");  //prints to console
-            int product2 = (int)Convert.ToInt16(hourlyRate2) * (int)Convert.ToInt16(hoursPer2);  //calculates annual salary
+            int product2 = (int)Convert.ToInt16(hourlyRate2) * (int)Convert.ToInt16(hoursPer2) * (int)Convert.ToInt16(52);  //calculates annual salary
             Console.WriteLine(product2);  //prints to console
             Console.ReadLine();  //pauses and holds program open for next section of program
 
             //Comparison of Person 1 salary vs. Person 2 salary
             Console.WriteLine("Does Person 1 make more money than Person 2?");  //prints to console
-            bool comparison = Convert.ToInt16(product1) > Convert.ToInt16(product2);  //compares annual salaries
+            bool comparison = Convert.ToUInt32(product1) > Convert.ToInt32(product2);  //compares annual salaries
             Console.WriteLine(comparison);  //prints True or False to console
             Console.ReadLine();  //pauses and holds program open to view all program results
 
