@@ -1,0 +1,7 @@
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\bin\Debug\BoolBasicApprovalProg.exe.config
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\bin\Debug\BoolBasicApprovalProg.exe
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\bin\Debug\BoolBasicApprovalProg.pdb
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\obj\Debug\BoolBasicApprovalProg.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\obj\Debug\BoolBasicApprovalProg.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\obj\Debug\BoolBasicApprovalProg.exe
+C:\Users\timek\source\repos\BoolBasicApprovalProg\BoolBasicApprovalProg\obj\Debug\BoolBasicApprovalProg.pdb
