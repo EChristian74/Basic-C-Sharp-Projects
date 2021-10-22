@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ShippingQuoteApp
 {
@@ -11,7 +7,7 @@ namespace ShippingQuoteApp
         static void Main(string[] args)
         {
             int maxWeight = 50;  //Total weight condition for shipping
-                        
+
             //Shipping quote page greeting
             Console.WriteLine("Welcome to Package Express. Please follow the instructions below.");
 
@@ -22,6 +18,8 @@ namespace ShippingQuoteApp
             if (packageWeight > maxWeight)  //Total weight condition for shipping
             {
                 Console.Write("Package too heavy to be shipped via Package Express. Have a good day.");  //Prints to console is weight exceeds maxWeight
+                Console.ReadLine();  //Pauses and holds open console for next section of program to run
+                Environment.Exit(0);  //Exits program if condition not met
             }
             Console.ReadLine();  //Pauses and holds open console for next section of program to run
 
@@ -43,16 +41,18 @@ namespace ShippingQuoteApp
 
             if (packageWidth + packageHeight + packageLength > totalDimensions)  //Total dimensions condition for shipping
             {
-                Console.Write("Package too big to be shipped via Package Express.");  //Prints to console is weight exceeds totalDimensions
+                Console.Write("Package too big to be shipped via Package Express.");  //Prints to console is weight exceeds totalDimensions           
+                Console.ReadLine();  //Pauses and holds open console for next section of program to run
+                Environment.Exit(0);  //Exits program if condition not met
             }
+
             else  //Condition if does not exceed totalDimensions 
             {
                 //Calculates final shipping cost and prints to console
-                Console.Write("Your estimated total for shipping this package is: " + packageWidth * packageHeight * packageLength * maxWeight / packageDivisor +"\n");
+                Console.Write("Your estimated total for shipping this package is: " + packageWidth * packageHeight * packageLength * maxWeight / packageDivisor + "\n");
                 Console.Write("Thank you!");  //Prints to console 
             }
             Console.ReadLine();  //Pauses and holds open console until user closes program
-
 
         }
     }
