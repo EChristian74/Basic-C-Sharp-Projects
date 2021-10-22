@@ -49,7 +49,7 @@ namespace ShippingQuoteApp
             else  //Condition if does not exceed totalDimensions 
             {
                 //Calculates final shipping cost and prints to console
-                Console.Write("Your estimated total for shipping this package is: " + packageWidth * packageHeight * packageLength * maxWeight / packageDivisor + "\n");
+                Console.Write("Your estimated total for shipping this package is: " + packageWidth * packageHeight * packageLength * packageWeight / packageDivisor + "\n");
                 Console.Write("Thank you!");  //Prints to console 
             }
             Console.ReadLine();  //Pauses and holds open console until user closes program
