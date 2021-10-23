@@ -1,0 +1,14 @@
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe.config
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.pdb
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\source\repos\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.pdb
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe.config
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.pdb
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.pdb

@@ -27,15 +27,15 @@ namespace ShippingQuoteApp
             int totalDimensions = 50;  //Total dimensions condition for shipping
             int packageDivisor = 100;  //Variable used as divisor to final total width, height, length, weight calculation
 
-            //First package inquiry - width
+            //Second package inquiry - width
             Console.Write("Please provide package width: \n");
             int packageWidth = Convert.ToInt32(Console.ReadLine());  //casting string to int
 
-            //First package inquiry - height
+            //Third package inquiry - height
             Console.Write("Please provide package height: \n");
             int packageHeight = Convert.ToInt32(Console.ReadLine());  //casting string to int
 
-            //First package inquiry - length
+            //Fourth package inquiry - length
             Console.Write("Please provide package length:\n");
             int packageLength = Convert.ToInt32(Console.ReadLine());  //casting string to int
 
