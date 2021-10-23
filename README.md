@@ -92,6 +92,18 @@ BRANCHING SUBMISSION ASSIGNMENT
 * Submitted 10/22/2021
 
 
+CONSOLE APP SUBMISSION ASSIGNMENT:
+* Create a console app that does/includes the following:
+  - Do a boolean comparison using a while statement.
+  - Do a boolean comparison using a do while statement.
+  - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read     and understand your code. 
+* Submitted 10/23/2021
+
+
+
+
+
+
 
 Authors Eric C. Boland
 
