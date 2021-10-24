@@ -76,7 +76,7 @@ BOOLEAN LOGIC SUBMISSION ASSIGNMENT:
 * Submitted 10/18/2021
 
 
-BRANCHING SUBMISSION ASSIGNMENT
+BRANCHING SUBMISSION ASSIGNMENT:
 * Your job is to create a console-based application for getting a shipping quote for a package.
 * The first line of the program must be: “Welcome to Package Express. Please follow the instructions below.”
   - The user must then be prompted for the package weight.
@@ -96,11 +96,17 @@ CONSOLE APP SUBMISSION ASSIGNMENT:
 * Create a console app that does/includes the following:
   - Do a boolean comparison using a while statement.
   - Do a boolean comparison using a do while statement.
-  - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read     and understand your code. 
+  - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code. 
 * Submitted 10/23/2021
 
 
-
+CONSOLE APP ARRAY SUBMISSION ASSIGNMENT:
+* Create a one-dimensional Array of strings. Ask the user to select an index of the Array and then display the        string at that index on the screen.
+* Create a one-dimensional Array of integers. Ask the user to select an index of the Array and then display the     integer at that index on the screen.
+* Add in a message that displays when the user selects an index that doesn’t exist.
+* Create a list of strings. Ask the user to select an index of the list and then display the content at that index    on the screen.
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could    read and understand your code. 
+* Submitted 10/24/2021
 
 
 
