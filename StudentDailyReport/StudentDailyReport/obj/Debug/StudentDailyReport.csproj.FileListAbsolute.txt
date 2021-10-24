@@ -5,3 +5,10 @@ C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\StudentDailyReport\
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\bin\Debug\StudentDailyReport.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\StudentDailyReport\StudentDailyReport\obj\Debug\StudentDailyReport.pdb

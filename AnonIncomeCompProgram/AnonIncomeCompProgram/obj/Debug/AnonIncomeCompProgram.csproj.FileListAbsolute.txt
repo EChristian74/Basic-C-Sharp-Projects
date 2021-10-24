@@ -5,3 +5,10 @@ C:\Users\timek\source\repos\AnonIncomeCompProgram\AnonIncomeCompProgram\bin\Debu
 C:\Users\timek\source\repos\AnonIncomeCompProgram\AnonIncomeCompProgram\bin\Debug\AnonIncomeCompProgram.pdb
 C:\Users\timek\source\repos\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.exe
 C:\Users\timek\source\repos\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\bin\Debug\AnonIncomeCompProgram.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\bin\Debug\AnonIncomeCompProgram.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\bin\Debug\AnonIncomeCompProgram.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AnonIncomeCompProgram\AnonIncomeCompProgram\obj\Debug\AnonIncomeCompProgram.pdb
