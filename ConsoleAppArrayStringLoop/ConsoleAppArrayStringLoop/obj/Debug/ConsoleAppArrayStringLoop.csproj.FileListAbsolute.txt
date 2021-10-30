@@ -1,0 +1,14 @@
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.exe.config
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.exe
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.pdb
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.exe
+C:\Users\timek\source\repos\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.pdb
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.csproj.AssemblyReference.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.csproj.CoreCompileInputs.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\obj\Debug\ConsoleAppArrayStringLoop.pdb
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.exe.config
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\ConsoleAppArrayStringLoop\ConsoleAppArrayStringLoop\bin\Debug\ConsoleAppArrayStringLoop.pdb

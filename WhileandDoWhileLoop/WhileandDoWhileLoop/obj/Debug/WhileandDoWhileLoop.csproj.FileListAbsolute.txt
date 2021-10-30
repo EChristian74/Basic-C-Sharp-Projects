@@ -12,3 +12,10 @@ C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.CoreCompileInputs.cache
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.exe
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\bin\Debug\WhileandDoWhileLoop.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\WhileandDoWhileLoop\WhileandDoWhileLoop\obj\Debug\WhileandDoWhileLoop.pdb
