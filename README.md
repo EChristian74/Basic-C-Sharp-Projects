@@ -109,6 +109,48 @@ CONSOLE APP ARRAY SUBMISSION ASSIGNMENT:
 * Submitted 10/24/2021
 
 
+CONSOLE APP SUBMISSION ASSIGNMENT 1-6:
+
+* Create a console app that does/contains the following:
+  - A one-dimensional array of strings.
+  - Ask the user to input some text.
+  - A loop that iterates through each string in the array and adds the user's text input to the end of each string. This step will not output anything to the console, but will     update each array element by appending the user's text.
+  - Then create a loop that prints off each string in the array on a separate line.
+
+* An infinite loop.
+  - Save your code.
+  - Fix the infinite loop so that it will execute properly.
+
+* Add the following to your console app and perform these actions:
+  - A loop where the comparison that’s used to determine whether to continue iterating the loop is a “<” operator.
+  - Save and execute your code.
+  - A loop where the comparison that’s used to determine whether to continue iterating the loop is a “<=” operator.
+
+* Add the following to your console app and perform these actions:
+  - A list of strings where each item in the list is unique.
+  - Ask the user to input text to search for in the list.
+  - A loop that iterates through the list and then displays the index of the list that contains matching text on the screen.
+  - Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
+  - Add code to the loop that stops it from executing once a match has been found.
+
+* Add the following to your console app and perform these actions:
+  - A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
+  - Create a loop that iterates through the list and then displays the indices of the items matching the user-selected text.
+  - Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
+
+* Add the following to your console app and perform these actions:
+  - Create a list of strings that has at least two identical strings in the list.
+  - Create a foreach loop that evaluates each item in the list, and displays a message showing the string and whether or not it has already appeared in the list.
+  - Save and execute your code.
+
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submitted 10/17/2021
+
+
+
+
+
+
 
 
 Authors Eric C. Boland
