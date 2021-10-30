@@ -127,7 +127,6 @@ class Program
 
 
 
-
         //ASSIGNMENT FIVE: List of strings with two identical strings in list, asks user to search list,
         //loop interates through list, displays indices of matching items, loop that checks user input
 
@@ -147,48 +146,48 @@ class Program
             {
                 Console.WriteLine("Match found at index " + i);  //Writes message to console confirming a match
             }
-            if (!brands.Contains(response4))  //Condition if user data entry does not match string in list
-            {
-                Console.WriteLine("Match not in the list.");  //Write message to console confirming not a match
-            }
+        }
+        if (!brands.Contains(response4))  //Condition if user data entry does not match string in list
+        {
+            Console.WriteLine("Match not in the list.");  //Write message to console confirming not a match
+        }
         Console.ReadLine();  //Pauses and holds open console until user hits Return or exits console
 
 
 
-            //ASSIGNMENT SIX: List of strings with two identical strings in list, asks user to search list,
-            //loop interates through list, displays indices of matching items, loop that checks user input
+        //ASSIGNMENT SIX: List of strings with two identical strings in list, asks user to search list,
+        //loop interates through list, displays indices of matching items, loop that checks user input
 
-            //Opening statements that informs user regarding the purpose of this program
-            Console.WriteLine("The students in my small classroom are named John, Sue, Bobby, Patricia, Frederick, and Pepe.");
-            Console.WriteLine("Of all student names in my classroom, can you guess which name occurs more than once?");
+        //Opening statements that informs user regarding the purpose of this program
+        Console.WriteLine("The students in my small classroom are named John, Sue, Bobby, Patricia, Frederick, and Pepe.");
+        Console.WriteLine("Of all student names in my classroom, can you guess which name occurs more than once?");
 
-            //Creation of and addition of string elements to a new list
-            List<string> students = new List<string>() { "John", "Sue", "Bobby", "Patricia", "Frederick", "Pepe", "Sue" };
+        //Creation of and addition of string elements to a new list
+        List<string> students = new List<string>() { "John", "Sue", "Bobby", "Patricia", "Frederick", "Pepe", "Sue" };
 
-            Console.WriteLine(" ");  //Blank line
+        Console.WriteLine(" ");  //Blank line
 
-            Console.WriteLine("Enter your guess: \n");  //Instruction to user to enter a guess
-            string response5 = (Console.ReadLine());  //User data entry
-            List<string> students2 = new List<string>();  //Creates empty list 
+        Console.WriteLine("Enter your guess: \n");  //Instruction to user to enter a guess
+        string response5 = (Console.ReadLine());  //User data entry
+        List<string> students2 = new List<string>();  //Creates empty list 
 
-            foreach (string student in students)  //Condition for list iteration
+        foreach (string student in students)  //Condition for list iteration
+        {
+            if (!students2.Contains(student))   //Condition if data entry is not a match
             {
-                if (!students2.Contains(student))   //Condition if data entry is not a match
-                {
-                    students2.Add(student);  //Writes data to new list
-                    Console.WriteLine(student + " was not in the list.");  //Prints message to console when condition not met
-                }
-                else if (students2.Contains(student))  //Condition if data entry is a match
-                {
-                    //Message to inform if the user guess is incorrect
-                    Console.WriteLine(student + " was on the list.");  //Prints phrase to console when condition is met
-                }
+                students2.Add(student);  //Writes data to new list
+                Console.WriteLine(student + " was not in the list.");  //Prints message to console when condition not met
             }
-            //Console.ReadLine();  //Pauses and holds open console until user hits return or exits console
-
+            else if (students2.Contains(student))  //Condition if data entry is a match
+            {
+                //Message to inform if the user guess is incorrect
+                Console.WriteLine(student + " was on the list.");  //Prints phrase to console when condition is met
+            }
         }
+        Console.ReadLine();  //Pauses and holds open console until user hits return or exits console
     }
 }
+
 
 
 
