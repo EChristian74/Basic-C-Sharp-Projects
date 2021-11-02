@@ -11,24 +11,17 @@ class Program
         List<int> intList = new List<int>() { 12, 25, 36, 50, 72, 100 };
 
         Console.WriteLine("Division Program");  //Displays name of program to console      
-
-
-
+        Console.WriteLine("Pick a number that will be used to divide each number in the list:");  //Instruction to user
+        
         //Try statement that houses all exception handling code
         try
         {
-            foreach (int number in intList)  //For statement that result in iteration of each integer in list
-
+            int responseInt = Convert.ToInt32(Console.ReadLine());  //Casts user data entry
+            foreach (int integer in intList)  //Instructs program to iterate all index positions in list  
             {
-                Console.WriteLine("Pick a number that will be used to divide each number in the list:");  //Instruction to user
-                int responseInt = Convert.ToInt32(Console.ReadLine());  //Casts user data entry
-                Console.WriteLine("Now dividing the the two...");  //Message that division will now take place, prints to console
-                int intResult = number / responseInt;  //Instruction to program to perform this math calculation
-                Console.WriteLine(number + " divided by " + responseInt + " equals " + intResult);  //Prints visual respresentation of math calculation
-                Console.ReadLine();
+                Console.WriteLine(integer / responseInt);  //Instruction to program to perform this math calculation
             }
-        } //Pauses and hold open program program for next section of code to run
-
+        }
         //Catch 1: If user enters number other tha whole number 
         catch (FormatException ex)  //Built-in exception specific to format
         {
@@ -52,9 +45,9 @@ class Program
         }
         Console.WriteLine("The number(s) you have enters are valid.");  //Display message to console confirming numbers entered are valid
         Console.ReadLine();  //Holds program open until user hits Return or exits the console
-
-    }
+    } 
 }
+
 
 
 

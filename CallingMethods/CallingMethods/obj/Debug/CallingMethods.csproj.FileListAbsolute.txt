@@ -5,3 +5,10 @@ C:\Users\timek\source\repos\CallingMethods\CallingMethods\bin\Debug\CallingMetho
 C:\Users\timek\source\repos\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
 C:\Users\timek\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
 C:\Users\timek\source\repos\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
