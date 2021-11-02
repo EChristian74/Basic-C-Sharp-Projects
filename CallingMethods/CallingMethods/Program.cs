@@ -12,19 +12,32 @@ namespace CallingMethods
         static void Main(string[] args)
         {
             //heading of program - displays to console
-            Console.WriteLine("PLUS, MINUS, DIVIDE!");  
+            Console.WriteLine("ADD, SUBTRACT, MULTIPLY, DIVIDE");
 
             //instruction to user to enter a number to perform math operations
-            Console.WriteLine("Please enter a number that will be used \nto add, subtract, multiply, and divide:");
-            string line = Console.ReadLine();  //program reads user data entry
-            Data = Int32.Parse(line);  //converts string representation of a number to its 32-bit signed integer equivalent
+            Console.WriteLine("Please enter a number: ");
+            string userEntry = Console.ReadLine();  //program reads user data entry
+            Data = Convert.ToInt32(userEntry);  //casting, boolean to string
 
-            var operatorObject = new Operator();  //instantiates new variable operatorObject  
-            var result = operatorObject.GetAdd(Data);  //calls on the class of Operator in Operator.cs file
+            var operatorObject1 = new Operators();  //instantiates new variable operatorObject1  
+            var result1 = operatorObject1.GetAdd(Data);  //calls method GetAdd
 
-            Console.WriteLine(result);  //displays
-            Console.ReadLine();  //hold program open until user hits Return or exits the console
+            var operatorObject2 = new Operators();  //instantiates new variable operatorObject2 
+            var result2 = operatorObject2.GetSubtract(Data);  //calls method GetSubtract
+
+            var operatorObject3 = new Operators();  //instantiates new variable operatorObject3 
+            var result3 = operatorObject3.GetMultiply(Data);  //calls method GetMultiply
+
+            var operatorObject4 = new Operators();  //instantiates new variable operatorObject4 
+            var result4 = operatorObject4.GetDivide(Data);  //calls method GetDivide
+
+            Console.WriteLine("Your number plus 5 equals " + result1);  //Writes result1 to console
+            Console.WriteLine("Your number minus 5 equals " + result2);  //Writes result2 to console
+            Console.WriteLine("Your number multiplied by 5 equals " + result3);  //Writes result3 to console
+            Console.WriteLine("Your number divided by 5 equals " + result4);  //Writes result4 to console
+
+            Console.ReadLine();  //pauses and holds open console until user hits Return or exits console
         }
-
     }
 }
+
