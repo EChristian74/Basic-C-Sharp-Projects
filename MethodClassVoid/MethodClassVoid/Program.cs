@@ -22,7 +22,7 @@ namespace MethodClassVoid
 
             Console.ReadLine();  //Blank line
 
-            Console.WriteLine("The result of parameter \"b\": ");  //Prints only the result of parameter "b" in Method.cs
+            Console.WriteLine("Your discount totals: ");  //Prints only the result of parameter "b" in Method.cs
             Object.Operation(a, b);
 
             Console.ReadLine();  //Holds open console until user hits Return or exits the console
