@@ -170,6 +170,21 @@ MAIN METHOD SUBMISSION ASSIGNMENT:
 * Submitted 11/2/2021
 
 
+METHOD SUBMISSION ASSIGNMENT:
+
+- Create a class. In that class, create a method that takes two integers as parameters. Make one of them optional. Have the method do a math operation and return an integer result.
+- In the Main() method of the console app, instantiate the class.
+- Ask the user to input two numbers, one at a time. Let them know they need not enter anything for the second number.
+- Call the method in the class, passing in the one or two numbers entered.
+- Try various combinations of numbers on the code, including having no second number.
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+
+
+
+
+
+
+
 METHOD CLASS SUBMISSION ASSIGNMENT:
 
   - Create a class. In that class, create a void method that takes two integers as parameters. Have the method do a math      operation on the first integer and display the second integer to the screen.
