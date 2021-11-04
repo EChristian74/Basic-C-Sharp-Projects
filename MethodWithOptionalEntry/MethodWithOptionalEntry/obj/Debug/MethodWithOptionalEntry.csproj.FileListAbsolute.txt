@@ -1,0 +1,7 @@
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.exe.config
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.exe
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.pdb
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.exe
+C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.pdb
