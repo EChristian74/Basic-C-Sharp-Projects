@@ -1,0 +1,7 @@
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\obj\Debug\MethodClassVoid.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\obj\Debug\MethodClassVoid.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\bin\Debug\MethodClassVoid.exe.config
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\bin\Debug\MethodClassVoid.exe
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\bin\Debug\MethodClassVoid.pdb
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\obj\Debug\MethodClassVoid.exe
+C:\Users\timek\source\repos\MethodClassVoid\MethodClassVoid\obj\Debug\MethodClassVoid.pdb
