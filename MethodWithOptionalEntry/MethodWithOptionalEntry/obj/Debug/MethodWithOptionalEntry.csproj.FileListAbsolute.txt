@@ -5,3 +5,10 @@ C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\
 C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.pdb
 C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.exe
 C:\Users\timek\source\repos\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\obj\Debug\MethodWithOptionalEntry.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\MethodWithOptionalEntry\MethodWithOptionalEntry\bin\Debug\MethodWithOptionalEntry.pdb
