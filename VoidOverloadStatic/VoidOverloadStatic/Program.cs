@@ -23,8 +23,10 @@ namespace VoidOverloadStatic
 
             //Method1.cs method Operation (overload)
             Console.WriteLine("Please provide your favorite color: ");  //Instructs user to enter a number
+            string c = Convert.ToString(Console.ReadLine());  //Program reads user data entry and sets entry data type
+            Console.WriteLine("Please provide your favorite shape: ");  //Instructs user to enter a number
             string s = Convert.ToString(Console.ReadLine());  //Program reads user data entry and sets entry data type
-            Object1.Operation(s);  //Calls the overload method "Operation" in Method1.cs
+            Object1.Operation(c, s);  //Calls the overload method "Operation" in Method1.cs
             Console.ReadLine();  //Prints output to console
 
 

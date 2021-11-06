@@ -17,9 +17,9 @@ namespace VoidOverloadStatic
             Console.WriteLine(x);  //Prints operation result to console
         }  
 
-        public void Operation(string s)  //Overload method that takes in user entry parameters
+        public void Operation(string c, string s)  //Overload method that takes in user entry parameters
         {
-            Console.WriteLine("My favorite color is " + s + ".");  //Prints message concatenated with user input
+            Console.WriteLine("My favorite color is " + c + " and my favorite shape is " + s + ".");  //Prints message concatenated with user input
         }
 
 
