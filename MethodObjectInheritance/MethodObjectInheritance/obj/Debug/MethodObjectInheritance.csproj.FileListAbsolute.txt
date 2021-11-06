@@ -1,0 +1,7 @@
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\bin\Debug\MethodObjectInheritance.exe.config
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\bin\Debug\MethodObjectInheritance.exe
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\bin\Debug\MethodObjectInheritance.pdb
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\obj\Debug\MethodObjectInheritance.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\obj\Debug\MethodObjectInheritance.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\obj\Debug\MethodObjectInheritance.exe
+C:\Users\timek\source\repos\MethodObjectInheritance\MethodObjectInheritance\obj\Debug\MethodObjectInheritance.pdb
