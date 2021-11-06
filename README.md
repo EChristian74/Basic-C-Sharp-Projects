@@ -155,7 +155,7 @@ CONSOLE APP STRINGS AND INTEGERS SUBMISSION ASSIGNMENT:
 - Run the code once again, entering in a string as the number to divide by. Note any error messages you get.
 - Now put the loop in a try/catch block. Below and outside of the try/catch block, make the program print a message to the display to let you know the program has emerged from the try/catch block and continued on with program execution. In the catch block, display the error message to the screen. Then try various combinations of user input: valid numbers, zero and a string. Ensure the proper error messages display on the screen, and that the code after the try/catch block gets executed.
 - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
-* Submitted 10/30/2021
+- Submitted 10/30/2021
 
 
 MAIN METHOD SUBMISSION ASSIGNMENT:
@@ -167,7 +167,7 @@ MAIN METHOD SUBMISSION ASSIGNMENT:
 - Add a third method to the class, with the same name, that will take in a string, convert it to an integer if possible, do a different math operation to it, then return the answer as an integer.
 - In the Main() method of the console app, instantiate the class and call the third method, passing in a string that equates to an integer. Display the result to the screen.
 - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
-* Submitted 11/2/2021
+- Submitted 11/2/2021
 
 
 METHOD SUBMISSION ASSIGNMENT:
@@ -177,9 +177,18 @@ METHOD SUBMISSION ASSIGNMENT:
 - Ask the user to input two numbers, one at a time. Let them know they need not enter anything for the second number.
 - Call the method in the class, passing in the one or two numbers entered.
 - Try various combinations of numbers on the code, including having no second number.
+- Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+
+
+CLASS SUBMISSION ASSIGNMENT:
+* Create a class. In that class, create a void method that outputs an integer. Have the method divide the data passed to it by 2.
+* In the Main() method, instantiate that class.
+* Have the user enter a number. Call the method on that number. Display the output to the screen. It should be the entered number, divided by two.
+* Create a method with output parameters.
+* Overload a method.
+* Declare a class to be static.
 * Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
-
-
+* Submitted 11/5/2021
 
 
 
