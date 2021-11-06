@@ -191,17 +191,25 @@ CLASS SUBMISSION ASSIGNMENT:
 * Submitted 11/5/2021
 
 
-
-
-
 METHOD CLASS SUBMISSION ASSIGNMENT:
 
   - Create a class. In that class, create a void method that takes two integers as parameters. Have the method do a math      operation on the first integer and display the second integer to the screen.
   - In the Main() method of the console app, instantiate the class.
   - Call the method in the class, passing in two numbers.
   - Call the method in the class, specifying the parameters by name.
-* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+  - Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submiited 11/5/2021
 
+
+METHODS AND OBJECTS SUBMISSION ASSIGNMENT:
+
+* Create a class called Person and give it two properties, each of data type string. One called FirstName, the other LastName.
+* Give this class a void method called SayName() that takes no parameters and simply writes the person's full name to the console in the format of: “Name: [full name]”.
+* Create another class called Employee and have it inherit from the Person class. Give the Employee class a property called Id and have it be of data type int.
+* Inside of the Main method, instantiate and initialize an Employee object with a first name of “Sample” and a last name of “Student”.
+* Call the superclass method SayName() on the Employee object.
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submitted 11/6/2021
 
 
 Authors Eric C. Boland
