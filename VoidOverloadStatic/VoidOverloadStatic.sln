@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidOverloadStatic", "VoidOverloadStatic\VoidOverloadStatic.csproj", "{CDDC7EEC-BB3C-426A-9BC4-35D22DF90495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDDC7EEC-BB3C-426A-9BC4-35D22DF90495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDDC7EEC-BB3C-426A-9BC4-35D22DF90495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDDC7EEC-BB3C-426A-9BC4-35D22DF90495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDDC7EEC-BB3C-426A-9BC4-35D22DF90495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAC4F959-DFE8-467F-8707-868E3D9C3D6A}
+	EndGlobalSection
+EndGlobal

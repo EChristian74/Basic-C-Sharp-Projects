@@ -1,0 +1,7 @@
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\bin\Debug\VoidOverloadStatic.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\bin\Debug\VoidOverloadStatic.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\bin\Debug\VoidOverloadStatic.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\obj\Debug\VoidOverloadStatic.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\obj\Debug\VoidOverloadStatic.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\obj\Debug\VoidOverloadStatic.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\VoidOverloadStatic\VoidOverloadStatic\obj\Debug\VoidOverloadStatic.pdb
