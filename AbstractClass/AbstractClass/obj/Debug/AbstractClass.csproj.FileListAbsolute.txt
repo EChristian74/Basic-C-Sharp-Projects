@@ -1,0 +1,14 @@
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\timek\source\repos\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
