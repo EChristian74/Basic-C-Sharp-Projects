@@ -212,6 +212,20 @@ METHODS AND OBJECTS SUBMISSION ASSIGNMENT:
 * Submitted 11/6/2021
 
 
+ABSTRACT CLASS SUBMISSION ASSIGNMENT:
+* Create an abstract class called Person with two properties: string firstName and string lastName.
+* Give it the method SayName().
+* Create another class called Employee and have it inherit from the Person class.
+* Implement the SayName() method inside of the Employee class.
+* Inside the Main() method, instantiate an Employee object with firstName “Sample” and lastName “Student”. Call the SayName() method on the object.
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submitted 11/7/2021
+
+
+
+
+
+
 Authors Eric C. Boland
 
 GitHub:@EChristian74
