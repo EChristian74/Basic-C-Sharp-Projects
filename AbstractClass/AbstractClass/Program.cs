@@ -15,6 +15,11 @@ namespace AbstractClass
             employee.lastName = "Student";  //Instantiates string parameter LastName in Person.cs
             employee.SayName();  //Calls the super class method SayName in Person.cs
             Console.ReadLine();  //Prints entire string "Sample Student" to console
+
+            Employee quit = new Employee();  //Inherits from the IQuittable class via the Employee class
+            employee.Quit();  //Calls the interface class method Quit in Iquittable.cs
+            Console.ReadLine();  //Prints the string from Quit to console
+
         }
     }
 }
