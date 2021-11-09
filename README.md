@@ -230,6 +230,10 @@ POLYMORPHISM SUBMISSION ASSIGNMENT:
 * Submitted 11/7/2021
 
 
+OPERATORS SUBMISSION ASSIGNMENT:
+* Overload the “==” operator so it checks if two Employee objects are equal by comparing their Id property.
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submitted 11/8/2021
 
 
 
