@@ -1,0 +1,7 @@
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\bin\Debug\OverloadOperator.exe.config
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\bin\Debug\OverloadOperator.exe
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\bin\Debug\OverloadOperator.pdb
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\obj\Debug\OverloadOperator.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\obj\Debug\OverloadOperator.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\obj\Debug\OverloadOperator.exe
+C:\Users\timek\source\repos\OverloadOperator\OverloadOperator\obj\Debug\OverloadOperator.pdb
