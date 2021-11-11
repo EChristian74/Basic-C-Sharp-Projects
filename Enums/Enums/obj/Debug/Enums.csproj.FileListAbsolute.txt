@@ -1,0 +1,14 @@
+C:\Users\timek\source\repos\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\timek\source\repos\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\timek\source\repos\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\timek\source\repos\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\timek\source\repos\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\timek\source\repos\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\timek\source\repos\Enums\Enums\obj\Debug\Enums.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\obj\Debug\Enums.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\obj\Debug\Enums.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\Enums\Enums\obj\Debug\Enums.pdb
