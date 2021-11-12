@@ -1,0 +1,7 @@
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\obj\Debug\Structs.csproj.AssemblyReference.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\obj\Debug\Structs.csproj.CoreCompileInputs.cache
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\Structs\Structs\obj\Debug\Structs.pdb
