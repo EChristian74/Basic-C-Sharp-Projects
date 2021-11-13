@@ -54,18 +54,31 @@ namespace LambdaExpression
                 Id = 10, FirstName = "Kelly", LastName = "Clarkson" //Individual Employee object attributes
             });
 
-            //Loop that iterates all objects in list assigning the keyword "data" to objects
+            //Traditional foreach loop that iterates all objects in list assigning the keyword "data" to objects
+            Console.WriteLine("Retrieving employees with the first name Joe\n");
             foreach (var data in empList)
             {
+                //Condition that dictates to only print employees with the first name "Joe" using "if" statement
                 if (data.FirstName == "Joe") 
                 //Prints Employee Id, FirstName, LastName as a vertical list to console for objects with the first name "Joe"
                 Console.WriteLine("Id: {0}, Name: {1} {2}", data.Id, data.FirstName, data.LastName);
             }
             Console.ReadLine(); //Holds open console for next section of code to run
 
-            
+
+            //Traditional foreach loop that iterates all objects in list assigning the keyword "data" to objects
+            Console.WriteLine("Retrieving employees with the first name Joe\n");
+            //Condition that dictates to only print employees with the first name "Joe" using Lambda expression (no "if" statement)
+            foreach (Employee data in empList.FindAll(e => e.FirstName == "Joe").ToList())
+            {
+                    //Prints Employee Id, FirstName, LastName as a vertical list to console for objects with the first name "Joe"
+                    Console.WriteLine("Id: {0}, Name: {1} {2}", data.Id, data.FirstName, data.LastName);
+            }
+            Console.ReadLine(); //Holds open console for next section of code to run
+
+
             Console.WriteLine("Retrieving employees with an Id greater than 5\n");
-            //Lambda expression inserted into foreach loop to iterate list Employee
+            //Foreach loop with embedded Lambda expression to iterate list Employee 
             //to identify all Id's > 5 assigning the keyword "data" to objects
             foreach (Employee data in empList.FindAll(e => (e.Id > 5)).ToList())
             {
@@ -78,3 +91,5 @@ namespace LambdaExpression
         
     }
 }
+
+

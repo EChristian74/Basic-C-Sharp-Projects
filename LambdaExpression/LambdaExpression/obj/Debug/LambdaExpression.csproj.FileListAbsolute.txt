@@ -5,3 +5,10 @@ C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\LambdaExpression\La
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
 C:\Users\timek\Desktop\Basic_C#_Programs\myConsoleProject.cs\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\bin\Debug\LambdaExpression.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\LambdaExpression\LambdaExpression\obj\Debug\LambdaExpression.pdb
