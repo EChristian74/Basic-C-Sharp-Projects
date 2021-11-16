@@ -1,0 +1,7 @@
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\bin\Debug\InputWriteReadText.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\bin\Debug\InputWriteReadText.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\bin\Debug\InputWriteReadText.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\obj\Debug\InputWriteReadText.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\obj\Debug\InputWriteReadText.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\obj\Debug\InputWriteReadText.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\InputWriteReadText\InputWriteReadText\obj\Debug\InputWriteReadText.pdb
