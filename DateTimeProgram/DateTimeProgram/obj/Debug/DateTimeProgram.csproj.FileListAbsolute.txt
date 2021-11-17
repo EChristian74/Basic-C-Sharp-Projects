@@ -1,0 +1,7 @@
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\bin\Debug\DateTimeProgram.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\bin\Debug\DateTimeProgram.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\bin\Debug\DateTimeProgram.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\obj\Debug\DateTimeProgram.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\obj\Debug\DateTimeProgram.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\obj\Debug\DateTimeProgram.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\DateTimeProgram\DateTimeProgram\obj\Debug\DateTimeProgram.pdb
