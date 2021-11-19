@@ -279,6 +279,16 @@ DATE/TIME SUBMISSION ASSIGNMENT:
 * Submitted 11/16/2021
 
 
+CONSTRUCTOR SUBMISSION ASSIGNMENT:
+* Create a const variable. 
+* Create a variable using the keyword “var.”
+* Chain two constructors together. 
+* Add comments to each line or block of your code to explain what it does exactly, so that another developer could read and understand your code.
+* Submitted 11/18/2021
+
+
+
+
 
 
 Authors Eric C. Boland
