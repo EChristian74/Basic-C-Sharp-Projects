@@ -1,0 +1,7 @@
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.exe.config
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\bin\Debug\TryCatchExceptionHandling.pdb
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.exe
+C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\TryCatchExceptionHandling\TryCatchExceptionHandling\obj\Debug\TryCatchExceptionHandling.pdb
