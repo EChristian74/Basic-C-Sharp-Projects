@@ -10,7 +10,7 @@ namespace CarInsurance.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\timek\Documents\GitHub\Basic-C-Sharp-Projects\CarInsurance\CarInsurance\App_Data\Insurance.mdf;Integrated Security = True; MultipleActiveResultSets=True;Application Name = EntityFramework";
+        private InsuranceEntities db = new InsuranceEntities();
 
         public ActionResult Index()
         {
@@ -18,35 +18,11 @@ namespace CarInsurance.Controllers
         }
 
         public ActionResult Admin()
+
         {
 
-            string queryString = @"SELECT FirstName, LastName, EmailAddress, Quote from Insurees";
+            return View(db.Insurees.ToList());
 
-            List<QuoteSignUp> signups = new List<QuoteSignUp>();
-
-            SqlConnection connectionString = new SqlConnection(this.connectionString);
-            using (SqlConnection connection = connectionString)
-            {
-                SqlCommand command = new SqlCommand(queryString, connection);
-
-                connection.Open();
-
-                SqlDataReader reader = command.ExecuteReader();
-
-                while (reader.Read())
-                {
-                    var signup = new QuoteSignUp();
-
-                    signup.FirstName = reader["FirstName"].ToString();
-                    signup.LastName = reader["LastName"].ToString();
-                    signup.EmailAddress = reader["EmailAddress"].ToString();
-                    signup.Quote = Convert.ToInt32(reader["Quote"]);
-
-                    signups.Add(signup);
-                }  
-            }
-
-            return View();
         }
 
         public ActionResult About()
