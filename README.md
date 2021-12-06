@@ -317,7 +317,16 @@ Calculate a quote:
 * Show all quotes issued, along with the user's first name, last name, and email address.
 * Submitted 12/4/2021
 
+FINAL CHALLENGE SUBMISSION ASSIGNMENT:
+* Research Code-First: (i.e., Google the term, read articles, watch videos, etc.).
+* HELPFUL LINKS: What is Code First? https://www.entityframeworktutorial.net/code-first/what-is-code-first.aspx#:~:text=Code%2DFirst%20is%20mainly%20useful,which%20match%20your%20database%20design.
+* Code First to a New Database: https://docs.microsoft.com/en-us/ef/ef6/modeling/code-first/workflows/new-database#:~:text=Code%20First%20allows%20you%20to,by%20using%20a%20fluent%20API.
+* Create a basic Entity Framework Code-First app that creates a basic Student database and adds one student.
 
+IMPORTANT NOTE: If you use the below HELPFUL LINK, do not continue past “Note: If you modify these classes and run the application again, then it will throw the following exception.” The steps that follow this webpage (such as “Code-First Conventions” and “DB Initialization”) are not required for the purposes of this challenge. All that is required is the code given on the webpage provided below.
+
+HELPFUL LINK - Entity Framework Code First: https://www.entityframeworktutorial.net/code-first/setup-entity-framework-code-first-environment.aspx
+* Submitted: 12/5/2021
 
 
 Authors Eric C. Boland
