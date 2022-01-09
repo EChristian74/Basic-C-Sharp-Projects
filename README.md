@@ -2,16 +2,14 @@
 
 The purpose of this repository for display of C# and .NET projects that I completed during my attendance at The Tech Academy.
 
-Dependencies
+## Dependencies
 
-* Windows 10 OS
-* GitHub (https://github.com/)
-* Visual Studio Comumunity 2019 4.8.04084
+* [Windows 10 OS](https://www.microsoft.com/en-us/software-download/)
+* [Visual Studio 2019](https://visualstudio.microsoft.com/downloads/)
 
 
-Installations
 
-* Visual Studio Comumunity 2019 4.8.04084 (https://visualstudio.microsoft.com/vs/)
+
 
 PROJECT DETAILS
 
