@@ -341,12 +341,12 @@ HELPFUL LINK - [Entity Framework Code First:](https://www.entityframeworktutoria
 * Submitted: 12/5/2021
 
 
-Authors Eric C. Boland
+## Author Eric C. Boland
 
-GitHub:@EChristian74
-LinkedIn:https://www.linkedin.com/in/christianmethodical/
-Email:christianmethodical@gmail.com
-Version History
+### Links:
 
+* GitHub: <https://github.com/EChristian74>
+* LinkedIn: <https://www.linkedin.com/in/christianmethodical/>
+* Email: <christianmethodical@gmail.com>
 
 Jump to: [Page Top](#basic-c-sharp-projects)
