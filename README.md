@@ -12,6 +12,7 @@ The purpose of this repository for display of C# and .NET projects that I comple
 
 ## Details by Assignment
 
+
 ### Daily Report:
 
 * The program must start by printing “The Tech Academy.”
